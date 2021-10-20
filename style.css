@@ -239,7 +239,7 @@ body{
     color: rgb(163, 38, 38);
     position: fixed;
     left: 0.6cm;
-    top: 0.6cm;
+    bottom: 0.6cm;
     border-style: solid;
   }
 
